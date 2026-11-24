@@ -18,7 +18,21 @@ An entry for the [The Dog Ate My Homework: Funniest Excuse](https://make.fun/bou
 python3 main.py                 # writes /output/entry.txt
 ENTRY_OUTPUT=entry.txt python3 main.py   # write somewhere else (local testing)
 python3 main.py --self-test     # exercise the validator's rejection cases
+python3 main.py --report        # print the entry's characters, bytes and sha256
 ```
+
+## Why this line
+
+Ten candidates were drafted and compared pairwise against the judge brief (dog's own voice, biggest laugh, dog priorities, works alone, fresh). The winner beat them all; the closest call was "It said 'do not eat' nowhere on it. I checked. Twice. With my mouth." — a good twist, but a dog quoting the homework sounds like a lawyer, while a dog quoting the floor sounds like a dog. The other candidates:
+
+- "I only ate the answers. The questions were still there. You're welcome."
+- "The homework was in my spot on the couch. I evicted it. With my teeth."
+- "It was due today, so I did the only thing that could save you from it."
+- "I shredded the evidence so the teacher can't prove you didn't do it."
+- "You wrote it in pencil. Pencil smells like a stick. I did the math."
+- "I ate it because the fridge was locked and the homework was not."
+- "It was blank on the back, so I assumed it was a placemat."
+- "The dog across the street dared me. I have a reputation to protect."
 
 ## Referral
 
